@@ -1,0 +1,52 @@
+
+============================================================
+BOOKS DATA ANALYSIS - FINAL REPORT
+============================================================
+
+PROJECT:
+Web Scraping and Exploratory Data Analysis of Books
+
+DATASET OVERVIEW
+------------------------------------------------------------
+Total Books Analyzed: 340
+Total Categories: 41
+Average Book Price: £34.71
+Median Book Price: £36.39
+Highest Book Price: £59.64
+Lowest Book Price: £10.16
+Average Book Rating: 2.94 / 5
+
+CATEGORY INSIGHTS
+------------------------------------------------------------
+Most Common Category: Default
+Highest Average Price Category: Womens Fiction
+
+STATISTICAL INSIGHTS
+------------------------------------------------------------
+Price-Rating Correlation: 0.005
+
+A correlation close to 0 indicates a weak linear
+relationship. A positive value indicates a positive
+linear relationship, while a negative value indicates
+a negative linear relationship.
+
+DATA ANALYSIS WORKFLOW
+------------------------------------------------------------
+1. Web scraping using urllib and BeautifulSoup.
+2. Data extraction from catalogue and product pages.
+3. CSV data storage.
+4. Data cleaning and preprocessing using Pandas.
+5. Numerical processing using NumPy.
+6. Exploratory data analysis.
+7. Statistical analysis.
+8. Data visualization using Matplotlib and Seaborn.
+9. Analytical reporting and presentation.
+
+TOOLS USED
+------------------------------------------------------------
+Python, BeautifulSoup, urllib, Pandas, NumPy,
+Matplotlib and Seaborn.
+
+============================================================
+END OF REPORT
+============================================================
